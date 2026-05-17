@@ -1,4 +1,4 @@
-# Emotion Detection App
+# oaqjp-final-project-emb-ai
 
 A premium, responsive Python Flask web application that detects emotions in user-provided text using Watson NLP's advanced Natural Language Processing services. This application classifies text into five emotional spectrums: **anger**, **disgust**, **fear**, **joy**, and **sadness**, and identifies the **dominant emotion**.
 
